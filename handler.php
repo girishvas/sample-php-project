@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>girish vas</title>
+<title>My Favorite Color</title>
 </head>
 <body>
 <h1>Enter your Name</h1>
